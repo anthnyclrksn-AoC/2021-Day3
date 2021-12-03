@@ -1,0 +1,24 @@
+{
+  "name": "2021-day3",
+  "version": "1.0.0",
+  "description": "Day 2 for Advent of Code.",
+  "main": "./src/code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthnyclrksn-AoC/2021-Day3.git"
+  },
+  "keywords": [
+    "Advent",
+    "of",
+    "Code"
+  ],
+  "author": "anthnyclrksn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthnyclrksn-AoC/2021-Day3/issues"
+  },
+  "homepage": "https://github.com/anthnyclrksn-AoC/2021-Day3#readme"
+}
