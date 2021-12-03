@@ -1,2 +1,8 @@
 # 2021-Day3
-Day 3 for Advent of Code.
+
+Advent of Code Day 3.
+
+## Day 3: Dive!
+
+### Part 1
+
